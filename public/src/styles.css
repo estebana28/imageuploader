@@ -1,0 +1,23 @@
+body {
+    background: #ffffff;
+}
+
+h1 {
+    text-align: center;
+}
+
+.btn-upload {
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    background: rgb(252,176,69);
+    position: fixed;
+    border-color: transparent;
+    top: 45vh;
+    margin-left: 20px;
+}
+
+.btn-upload img {
+    width: 30px;
+    height: 30px;
+}
